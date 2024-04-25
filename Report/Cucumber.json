@@ -1,0 +1,295 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "User Launch The Application",
+        "description": "",
+        "id": "hotel-booking-in-adacting-application;user-launch-the-application",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3687417600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user Launch the Adacting Application",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_Launch_the_Adacting_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 234008200,
+              "error_message": "java.lang.NullPointerException\r\n\tat com.stepdefinition.AdactinStepDefinition1$stepDefinition.user_enter_the_username_in_username_Field(AdactinStepDefinition1.java:45)\r\n\tat ✽.When user enter the username in username Field(Adactin.feature:5)\r\n",
+              "status": "failed"
+            },
+            "line": 5,
+            "name": "user enter the username in username Field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_enter_the_username_in_username_Field()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user enter the password in possword field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_enter_the_password_in_possword_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user click the loing button",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_click_the_loing_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "user select the location in the location field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_select_the_location_in_the_location_field()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "user select the hotel in the hotel field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_select_the_hotel_in_the_hotel_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user  select the rooms in the room field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_select_the_rooms_in_the_room_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "user select  Rooms in Number of Rooms field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_select_Rooms_in_Number_of_Rooms_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "user enter the Check In Date in Check In Date field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_enter_the_Check_In_Date_in_Check_In_Date_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "user enter the Check Out Date in Check Out Date field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_enter_the_Check_Out_Date_in_Check_Out_Date_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "user select the numbers of adult in Adults per Room field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_select_the_numbers_of_adult_in_Adults_per_Room_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "user select the numbers of children\u0027s in Children per Room field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_select_the_numbers_of_children_s_in_Children_per_Room_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 16,
+            "name": "user click the Search button",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_click_the_Search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 17,
+            "name": "user select hotel from select fiel",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_select_hotel_from_select_fiel()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "user click continne button",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_click_continne_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "user enter the first name in First Name field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_enter_the_first_name_in_First_Name_field()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 20,
+            "name": "user enter the last name in Last Name field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_enter_the_last_name_in_Last_Name_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 21,
+            "name": "user enter the billing address in Billing Address field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_enter_the_billing_address_in_Billing_Address_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 22,
+            "name": "user enter the CCN in Credit Card No field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_enter_the_CCN_in_Credit_Card_No_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 23,
+            "name": "user select card type in Credit Card Type field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_select_card_type_in_Credit_Card_Type_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 24,
+            "name": "user select expriy date in Expiry Date field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_select_expriy_date_in_Expiry_Date_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 25,
+            "name": "user enter the CCV nummber in CCV Nymber field",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_enter_the_CCV_nummber_in_CCV_Nymber_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 26,
+            "name": "user click the Book Now Buton",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_click_the_Book_Now_Buton()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 27,
+            "name": "user click the My Itinerary Buttton",
+            "match": {
+              "location": "AdactinStepDefinition1$stepDefinition.user_click_the_My_Itinerary_Buttton()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@Login"
+          }
+        ]
+      }
+    ],
+    "name": "Hotel Booking in Adacting Application",
+    "description": "",
+    "id": "hotel-booking-in-adacting-application",
+    "keyword": "Feature",
+    "uri": "Adactin.feature"
+  }
+]
