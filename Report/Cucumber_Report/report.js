@@ -144,14 +144,14 @@ formatter.match({
   "location": "AdactinStepDefinition1$stepDefinition.user_Launch_the_Adacting_Application()"
 });
 formatter.result({
-  "duration": 3687417600,
+  "duration": 7417714800,
   "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDefinition1$stepDefinition.user_enter_the_username_in_username_Field()"
 });
 formatter.result({
-  "duration": 234008200,
+  "duration": 36423300,
   "error_message": "java.lang.NullPointerException\r\n\tat com.stepdefinition.AdactinStepDefinition1$stepDefinition.user_enter_the_username_in_username_Field(AdactinStepDefinition1.java:45)\r\n\tat ✽.When user enter the username in username Field(Adactin.feature:5)\r\n",
   "status": "failed"
 });
